@@ -1,6 +1,7 @@
 # ESP32 ile Wiegand Protokolü Kullanımı
 
 ESP32 mikrodenetleyicisi ile Wiegand protokolü üzerinden RFID kartlarını okuma işlemini gerçekleştirmek için hazırlanmıştır. Arduino framework kullanılarak geliştirilmiştir.
+Ana kod yapay zekaya hazırlatılmıştır. Örnek bir kod bloğudur. Amaç bu protokolü en basit haliyle ESP32 ile nasıl kullanabilirizdir. Farklı Wiegand protokol kütüphaneleri de mevcuttur araştırılması tavsiye edilir.
 
 ---
 
