@@ -51,3 +51,7 @@ Gwiot okuyucular 5V ile çalışırken ESP32’nin GPIO pinleri 3V3 toleranslıd
 | GND            | Doğrudan bağlanır                       | GND            | Ortak toprak hattı                          |
 | D0             | 1k direnç → GPIO14 ve 2.2k direnç → GND | GPIO14         | Gerilim bölücü ile seviye uyumu (5V → 3.3V) |
 | D1             | 1k direnç → GPIO16 ve 2.2k direnç → GND | GPIO16         | Gerilim bölücü ile seviye uyumu (5V → 3.3V) |
+
+## Lisans 
+
+Bu proje, MIT lisanslı [Wiegand-Protocol-Library-for-Arduino](https://github.com/monkeyboard/Wiegand-Protocol-Library-for-Arduino) kütüphanesini kullanmaktadır. Kütüphane, proje dosyalarına dahil edilmemiştir.
